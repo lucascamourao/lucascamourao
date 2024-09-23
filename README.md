@@ -17,7 +17,7 @@
 - **Backend AI Developer Bootcamp (DIO)** – 67 hours of backend development with a focus on APIs, AI, and team collaboration.
 
 ### 🚀 Projects:
-- [**Saúde Connect**](https://github.com/lucascamourao/saude-connect): A mobile app built with React Native to help users find nearby health units and report shortages of medicines.
+- [**Saúde Connect**](https://github.com/lucascamourao/Saude-Connect-App): A mobile app built with React Native to help users find nearby health units and report shortages of medicines.
 - [**Store API**](https://github.com/lucascamourao/store_api): A RESTful API built with FastAPI, MongoDB, and SQLAlchemy for managing a store's inventory and orders.
 - [**Natty or Not**](https://github.com/lucascamourao/lab-natty-or-not): Final AI challenge, creating a script that uses generative models for educational content.
 
