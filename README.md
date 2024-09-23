@@ -27,7 +27,3 @@
 ### 💬 About me:
 - Currently focused on **frontend development**, **applied AI** and **software engineering**.
 - I love solving complex problems and building solutions that make a difference in people's lives.
-
-### 📫 How to reach me:
-- LinkedIn: [Lucas Cabral](https://www.linkedin.com/in/lucascamourao/)
-- Instagram: @lucascamourao
