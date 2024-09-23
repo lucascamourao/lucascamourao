@@ -2,7 +2,8 @@
 <h3 align="center">Aspiring Full Stack Developer - passionate about Software Engineering and AI</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascamourao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucascamourao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" style="margin-right: 30px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascamourao&theme=dark&hide_border=false" height="150" alt="GitHub streak" />
 </div>
 
 ### 🛠️ Technologies and Tools:
@@ -12,12 +13,8 @@
 - **Others:** Machine Learning, REST APIs, Automated Testing, TDD
 
 ### 📚 Education:
+- **Coursing Computer Science at Federal University of Ceará (UFC)** 🇧🇷 - 6th semester
 - **Backend AI Developer Bootcamp (DIO)** – 67 hours of backend development with a focus on APIs, AI, and team collaboration.
-
-### 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucascamourao&theme=dark&hide_border=false" height="150" alt="GitHub streak" />
-</div>
 
 ### 🚀 Projects:
 - [**Saúde Connect**](https://github.com/lucascamourao/saude-connect): A mobile app built with React Native to help users find nearby health units and report shortages of medicines.
