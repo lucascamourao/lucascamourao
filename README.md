@@ -14,7 +14,7 @@
 
 ### 📚 Education:
 - **Coursing Computer Science at Federal University of Ceará (UFC)** 🇧🇷 - 6th semester
-- **Backend AI Developer Bootcamp (DIO)** – 67 hours of backend development with a focus on APIs, AI, and team collaboration.
+- **Python AI Backend Developer Bootcamp (DIO)** – 67 hours of backend development with a focus on APIs, AI, and team collaboration.
 
 ### 🚀 Projects:
 - [**Saúde Connect**](https://github.com/lucascamourao/Saude-Connect-App): A mobile app built with React Native to help users find nearby health units and report shortages of medicines.
